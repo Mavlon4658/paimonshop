@@ -757,10 +757,10 @@ header .header_burger span {
 #payment {
   max-width: 1440px;
   border-radius: 10px;
-  margin: 100px auto 110px auto;
+  margin: 20px auto 110px auto;
   background-color: #242442;
   display: flex;
-  align-items: start;
+  align-items: stretch;
   gap: 56px;
   overflow: auto;
 }
@@ -830,7 +830,6 @@ header .header_burger span {
 #payment .payment_form {
   top: 80px;
   position: sticky;
-  height: 680px;
   width: 454px;
   padding: 33px;
   border-radius: 10px;
