@@ -330,6 +330,12 @@ header .header_burger span {
   height: 17px;
   width: 17px;
   border: 12px solid transparent;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  -moz-border-top-colors: transparent;
+  -moz-border-left-colors: transparent;
+  -moz-border-right-colors: transparent;
   border-bottom: 12px solid #feb341;
   pointer-events: auto;
   -webkit-appearance: none;
@@ -338,6 +344,12 @@ header .header_burger span {
   height: 17px;
   width: 17px;
   border: 12px solid transparent;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  -moz-border-top-colors: transparent;
+  -moz-border-left-colors: transparent;
+  -moz-border-right-colors: transparent;
   border-bottom: 12px solid #feb341;
   pointer-events: auto;
   -moz-appearance: none;
