@@ -337,6 +337,7 @@ header .header_burger span {
   -moz-border-left-colors: transparent;
   -moz-border-right-colors: transparent;
   border-bottom: 12px solid #feb341;
+  background-color: transparent;
   pointer-events: auto;
   -webkit-appearance: none;
 }
@@ -351,6 +352,7 @@ header .header_burger span {
   -moz-border-left-colors: transparent;
   -moz-border-right-colors: transparent;
   border-bottom: 12px solid #feb341;
+  background-color: transparent;
   pointer-events: auto;
   -moz-appearance: none;
 }
